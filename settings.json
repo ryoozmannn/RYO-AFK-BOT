@@ -6,16 +6,16 @@
     "type": "offline"
   },
   "server": {
-    "ip": "warthunder.aternos.me",
-    "port": 27277,
+    "ip": "thebestrios.aternos.me",
+    "port": 40848,
     "version": "",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 8,466,
-    "y": 75,
-    "z": -487
+    "x": 12,327,
+    "y": 70,
+    "z": -1,278
   },
   "utils": {
     "auto-auth": {
